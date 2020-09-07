@@ -8,3 +8,5 @@ def create_project_hash
 end
 
 create_project_hash
+
+#project: kickstarter.css("li.project.grid_4")
